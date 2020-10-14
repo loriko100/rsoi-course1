@@ -1,0 +1,63 @@
+{"level":"info","message":"create comment for qid: 1"}
+{"level":"info","message":"success comment was created: [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"delete comment by id: 1"}
+{"level":"info","message":"success comment was deleted"}
+{"level":"info","message":"delete comment by uid: 1"}
+{"level":"info","message":"success comment was deleted"}
+{"level":"info","message":"delete comment by qid: 1"}
+{"level":"info","message":"success comment was deleted"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam "}
+{"level":"info","message":"getCommentByParam "}
+{"level":"info","message":"getCommentByParam "}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"delete comment by uid: 3"}
+{"level":"info","message":"success comment was deleted"}
+{"level":"info","message":"delete comment by qid: 1"}
+{"level":"info","message":"success comment was deleted"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"delete comment by qid: 4"}
+{"level":"info","message":"success comment was deleted"}
+{"level":"info","message":"getCommentByParam "}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment]"}
+{"level":"info","message":"create comment for qid: 2"}
+{"level":"info","message":"success comment was created: [object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"getCommentByParam [object SequelizeInstance:Comment],[object SequelizeInstance:Comment]"}
+{"level":"info","message":"create comment for qid: 2, time: Wed Oct 14 2020 17:22:50 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail ReferenceError: text is not defined, time: Wed Oct 14 2020 17:22:50 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"create comment for qid: 2, time: Wed Oct 14 2020 17:22:56 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail ReferenceError: text is not defined, time: Wed Oct 14 2020 17:22:56 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"create comment for qid: 2, time: Wed Oct 14 2020 17:22:57 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail ReferenceError: text is not defined, time: Wed Oct 14 2020 17:22:57 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"create comment for qid: 2, time: Wed Oct 14 2020 17:22:58 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail ReferenceError: text is not defined, time: Wed Oct 14 2020 17:22:58 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"delete comment by id: 34, time: Wed Oct 14 2020 17:23:11 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"delete comment by id: 35, time: Wed Oct 14 2020 17:23:14 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"delete comment by id: 36, time: Wed Oct 14 2020 17:23:16 GMT+0300 (GMT+03:00)"}

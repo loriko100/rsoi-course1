@@ -1,0 +1,113 @@
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"fail SequelizeDatabaseError: столбец User.0 не существует"}
+{"level":"info","message":"getAllUsers "}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"fail ReferenceError: error is not defined"}
+{"level":"info","message":"delete user by id: 1"}
+{"level":"info","message":"success user was deleted"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"fail ReferenceError: error is not defined"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"delete user by id: 3"}
+{"level":"info","message":"success user was deleted"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"fail ReferenceError: error is not defined"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getAllUsers [object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User],[object SequelizeInstance:User]"}
+{"level":"info","message":"Searching name: [object Object]"}
+{"level":"info","message":"ok [object SequelizeInstance:User]"}
+{"level":"info","message":"getting user: undefined, time: Tue Oct 13 2020 03:32:39 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Tue Oct 13 2020 03:32:42 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Tue Oct 13 2020 03:32:44 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Tue Oct 13 2020 03:32:55 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Tue Oct 13 2020 03:47:46 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Tue Oct 13 2020 03:47:49 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: undefined, time: Wed Oct 14 2020 17:21:43 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail user exist, time: Wed Oct 14 2020 17:21:43 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: undefined, time: Wed Oct 14 2020 17:22:04 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail user exist, time: Wed Oct 14 2020 17:22:04 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: undefined, time: Wed Oct 14 2020 17:22:14 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:25 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:33 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:35 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:36 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:50 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:56 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:57 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:22:58 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:23:10 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:23:11 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:23:13 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:23:14 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:23:15 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"getting user: 1, time: Wed Oct 14 2020 17:23:16 GMT+0300 (GMT+03:00)"}

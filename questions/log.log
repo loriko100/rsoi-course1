@@ -1,0 +1,77 @@
+{"level":"info","message":"create question for uid: undefined"}
+{"level":"info","message":"fail SequelizeConnectionError: ���� ������ \"test\" �� ����������"}
+{"level":"info","message":"fail SequelizeConnectionError: ���� ������ \"test\" �� ����������"}
+{"level":"info","message":"delete question by id: 1"}
+{"level":"info","message":"fail SequelizeConnectionError: ���� ������ \"test\" �� ����������"}
+{"level":"info","message":"delete question by uid: 1"}
+{"level":"info","message":"fail SequelizeConnectionError: ���� ������ \"test\" �� ����������"}
+{"level":"info","message":"fail SequelizeConnectionError: ���� ������ \"test\" �� ����������"}
+{"level":"info","message":"create question for uid: undefined"}
+{"level":"info","message":"success question was created: [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question]"}
+{"level":"info","message":"delete question by id: 1"}
+{"level":"info","message":"success question was deleted"}
+{"level":"info","message":"delete question by uid: 1"}
+{"level":"info","message":"success question was deleted"}
+{"level":"info","message":"getQuestionByParam "}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"fail SequelizeDatabaseError: неверный синтаксис для типа integer: \"id2\""}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"delete question by id: 1"}
+{"level":"info","message":"success question was deleted"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"delete question by id: 4"}
+{"level":"info","message":"success question was deleted"}
+{"level":"info","message":"getQuestionByParam "}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam "}
+{"level":"info","message":"getQuestionByParam "}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getAllQuestions [object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question],[object SequelizeInstance:Question]"}
+{"level":"info","message":"getQuestionByParam [object SequelizeInstance:Question]"}
+{"level":"info","message":"create question for uid: undefined, time: Tue Oct 13 2020 03:32:55 GMT+0300 (GMT+03:00)"}

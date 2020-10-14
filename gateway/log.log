@@ -1,0 +1,179 @@
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"user login name: undefined, password: undefined"}
+{"level":"info","message":"fail login"}
+{"level":"info","message":"user login name: testid1, password: testid1"}
+{"level":"info","message":"user from userDB: [object Object]"}
+{"level":"info","message":"user login success: testid1"}
+{"level":"info","message":"user login name: testid1, password: te"}
+{"level":"info","message":"user from userDB: [object Object]"}
+{"level":"info","message":"user login fail: password incorrect"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"fail Error: error"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"fail Error: error"}
+{"level":"info","message":"get question by id: 1"}
+{"level":"info","message":"fail Error: error"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"get question by id: id2"}
+{"level":"info","message":"fail Error: error"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"fail Error: error"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"get question by id: 1"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"get question by id: 1"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"fail: not authorized"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"user login name: testid0, password: testid0"}
+{"level":"info","message":"user from userDB: [object Object]"}
+{"level":"info","message":"user login success: testid0"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"user login name: testid0, password: testid0"}
+{"level":"info","message":"user from userDB: [object Object]"}
+{"level":"info","message":"user login success: testid0"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"user login name: 11111, password: 11111111"}
+{"level":"info","message":"user login fail: Error: error"}
+{"level":"info","message":"fail FetchError: request to http://localhost:8002/questions/all failed, reason: connect ECONNREFUSED 127.0.0.1:8002"}
+{"level":"info","message":"fail FetchError: request to http://localhost:8002/questions/all failed, reason: connect ECONNREFUSED 127.0.0.1:8002"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"get question by id: 1"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"get question by id: 1"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 3"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 4"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 5"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 6"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 7"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 8"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"get question by id: 4"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 5"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 4"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"get question by id: 1"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: id shouldnt by empty"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"fail: inputs shouldnt be empty!"}
+{"level":"info","message":"success: deleted question"}
+{"level":"info","message":"get question by id: 4"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"fail: not authorized"}
+{"level":"info","message":"fail: not authorized"}
+{"level":"info","message":"user login name: testid2, password: testid2"}
+{"level":"info","message":"user login fail: Error: error"}
+{"level":"info","message":"user login name: testid0, password: testid0"}
+{"level":"info","message":"user from userDB: [object Object]"}
+{"level":"info","message":"user login success: testid0"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success: created comments"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"user login name: testid0, password: testid0"}
+{"level":"info","message":"user from userDB: [object Object]"}
+{"level":"info","message":"user login success: testid0"}
+{"level":"info","message":"success all users"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"success: all questions"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"success all questions"}
+{"level":"info","message":"get question by id: 2"}
+{"level":"info","message":"success: [object Object]"}
+{"level":"info","message":"success: all comments"}
+{"level":"info","message":"user login name: testid0, password: testid0, time: Tue Oct 13 2020 03:32:39 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"user from userDB: 1, time: Tue Oct 13 2020 03:32:39 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"user login name: gggg, password: ggggg, time: Wed Oct 14 2020 17:21:43 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"user login fail: Error: error, time: Wed Oct 14 2020 17:21:43 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"user login name: admin, password: admin, time: Wed Oct 14 2020 17:22:04 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"user login fail: Error: error, time: Wed Oct 14 2020 17:22:04 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"user login name: testid0, password: testid0, time: Wed Oct 14 2020 17:22:14 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"user from userDB: 1, time: Wed Oct 14 2020 17:22:14 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"get question by id: 2, time: Wed Oct 14 2020 17:22:45 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail: Error: error, time: Wed Oct 14 2020 17:22:50 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail: Error: error, time: Wed Oct 14 2020 17:22:56 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail: Error: error, time: Wed Oct 14 2020 17:22:57 GMT+0300 (GMT+03:00)"}
+{"level":"error","message":"fail: Error: error, time: Wed Oct 14 2020 17:22:58 GMT+0300 (GMT+03:00)"}
+{"level":"info","message":"get question by id: 2, time: Wed Oct 14 2020 17:23:00 GMT+0300 (GMT+03:00)"}
