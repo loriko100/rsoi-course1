@@ -1,1 +1,1 @@
-# rsoi-course
+# rsoi-course-Petrov
