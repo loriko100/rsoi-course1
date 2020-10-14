@@ -1,1 +1,1 @@
-# rsoi-2
+# rsoi-course
